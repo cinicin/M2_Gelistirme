@@ -8,3 +8,4 @@ MDTASLAK.md
 !foo.html
 # Ignore objects and archives.
 *.[oa]
+/taslak
