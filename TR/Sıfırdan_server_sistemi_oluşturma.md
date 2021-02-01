@@ -6,7 +6,7 @@
 	 Takıldığınız yerler için discord kanalı üzerinden bana ulaşabilirsiniz.
    Videolarda kullanılan dosyalar için linkteki arşivi indirebilirsiniz...
 [ulastudiosf.7z](http://furtelec.com/3muh)
-	 **Şifre** : ulastudios
+	 **Şifre** : cncn
 ## 1.VİDEO KAYNAK HAZIRLAMA
 ### Açıklama:
   bu videoda mainline kaynak kodlarını derlenebilir hale getiriyoruz, internal ip bloklamasını kaldırıyoruz ve kodlarımızı derliyoruz.
