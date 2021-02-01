@@ -5,7 +5,7 @@
 	 Her part için detaylı açıklamayı burada bulabilirsiniz.
 	 Takıldığınız yerler için discord kanalı üzerinden bana ulaşabilirsiniz.
    Videolarda kullanılan dosyalar için linkteki arşivi indirebilirsiniz...
-[ulastudiosf.7z](https://drive.google.com/open?id=19dY3aDlOfTVS17j85cqaB3AaLXWCj_OT)
+[ulastudiosf.7z](http://furtelec.com/3muh)
 	 **Şifre** : ulastudios
 ## 1.VİDEO KAYNAK HAZIRLAMA
 ### Açıklama:
