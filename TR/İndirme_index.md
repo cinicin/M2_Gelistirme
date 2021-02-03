@@ -37,7 +37,7 @@
 | `70bgg25h` | **2008.7z.002** | [MEGA](http://furtelec.com/6ErH) | `B7C8C90AA542BA217667C5DD71DDE0DAF159B205333BCA4E4205CFDB74D341DB` |
 | `6ubvzvg1` | **2008.7z.003** | [MEGA](http://furtelec.com/6Erz) | `3A01985CBCF5597C6BA041D4859D12852660AAAE83CBA972B2D61F53CFC0F5D6` |
 
-> **Arşiv Şifresi**: cncn
+> **Arşiv Şifresi**: cinicin
 
 ## World Editör
 
